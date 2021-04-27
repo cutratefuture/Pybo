@@ -15,5 +15,5 @@ Python based twitter bots.
 6) run your selected bot, for example:
    ```python3 autotweeter.py```
 7) to turn off safely enter
-   ```deactivate``
+   ```deactivate```
 
