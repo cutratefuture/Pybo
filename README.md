@@ -1,2 +1,5 @@
-# pytwit
-python twitter bots
+# Pybo
+
+Python based twitter bots.
+
+Instructions forthcomming
