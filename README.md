@@ -4,7 +4,7 @@ Python based twitter bots.
 
 ## How to Use
 
-1) add your API keys to the ```bots/config.py``
+1) add your API keys to the ```bots/config.py```
 2) install python and pip packages
     ```sudo apt install python3-pip -y && sudo apt install python3-venv -y```
 3) make the virtual enviroment:
